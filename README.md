@@ -11,4 +11,4 @@ This project has been created for [Hasura Hub](https://hasura.io/hub) as a part 
 
  * Sarvang Mehta ([@sarvang008](https://github.com/sarvang008)) : Developed the React.JS web client for the chatbot
 
- * Puchalla Surya Prakash Reddy ([@surajchinna](https://github.com/surajchinna)) : Developed the React.JS web client for the chatbot
+ * Puchalla Surya Prakash Reddy ([@surya-prakash-reddy](https://github.com/Surya-Prakash-Reddy)) : Developed the React.JS web client for the chatbot
